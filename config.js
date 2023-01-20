@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['923075929586','923091388832']
+var ownernum = ['0','923091388832']
 //-------------
 
 
@@ -211,7 +211,7 @@ global.mail = 'info@fastest-system.com'
 //-------------
 global.youtube = 'https://youtube.com/c/ahmadcodeline'
 //-------------
-global.facebook = 'https://facebook.com/fastestsystemteam/ 
+global.github = 'https://github.com/fastestsystem/WhatsAppBot-MD/'
 //-------------
 global.insta = 'https://www.instagram.com/fastestsystem/' 
 //-------------
