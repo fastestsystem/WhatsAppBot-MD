@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['923075929586','923091388832']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['923091388832']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['923091388832']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'Ahmad' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'Ahmad'
 
    //---------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://www.instagram.com/syed_ahmad_dilshad/'
    
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://youtube.com/c/ahmadcodeline'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtube.com/c/ahmadcodeline'
    
    //---------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ global.APIKeys = {
    
    global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://youtube.com/c/ahmdadcodeline'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -193,31 +193,31 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = '𝑨𝒉𝒎𝒂𝒅 𝑫𝒊𝒍𝒔𝒉𝒂𝒅'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['923091388832']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = '𝑨𝒉𝒎𝒂𝒅 𝑫𝒊𝒍𝒔𝒉𝒂𝒅' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = '𝚏𝚊𝚜𝚝𝚎𝚜𝚝-𝚜𝚢𝚜𝚝𝚎𝚖.𝚌𝚘𝚖'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'info@fastest-system.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://youtube.com/c/ahmadcodeline'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.facebook = 'https://facebook.com/fastestsystemteam/ 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com/fastestsystem/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = '𝚏𝚊𝚜𝚝𝚎𝚜𝚝-𝚜𝚢𝚜𝚝𝚎𝚖.𝚌𝚘𝚖'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '𝚏𝚊𝚜𝚝𝚎𝚜𝚝-𝚜𝚢𝚜𝚝𝚎𝚖.𝚌𝚘𝚖' 
 //-------------
 global.herokuapi = '' 
 //-------------
